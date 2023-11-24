@@ -21,7 +21,7 @@
     </build>
 
     <properties>
-        <storm.version>2.1.0</storm.version>
+        <storm.version>2.6.0</storm.version>
         <kafka.version>1.0.2</kafka.version>
         <qpid-client.version>6.3.0</qpid-client.version>
     </properties>
